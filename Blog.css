@@ -1,0 +1,25 @@
+/* Blog.css */
+.blog-container {
+  margin: 20px;
+}
+
+.blog-heading {
+  font-size: 24px;
+  color: #333;
+}
+
+.blog-post {
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.post-title {
+  font-size: 20px;
+  color: #555;
+}
+
+.post-body {
+  color: #777;
+}
+
